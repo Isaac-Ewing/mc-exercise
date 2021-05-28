@@ -1,1 +1,2 @@
 # mc-exercise
+After doing this assignment, it seems clear that the issue was a lack of communication, as well as members of the team not pulling regularly. Ideally, only one person should have been modifying a file at a time, and whats being done where needs to be communicated to everyone involved. In addition to all of that, you should always be A-C-Ping as much as possible.
